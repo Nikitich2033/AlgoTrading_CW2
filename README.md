@@ -1,1 +1,1 @@
-"# AlgoTrading_CW2" 
+# AlgoTrading_CW2 Trading Strategies
